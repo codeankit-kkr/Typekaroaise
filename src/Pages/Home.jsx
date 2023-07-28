@@ -9,7 +9,7 @@ export default function Home() {
 
                 <div className='top_text'>
                     <h1>Welcome to TypeKaroAise.</h1>
-                    <h1>We are 3rd year undergraduate students at NIT Kurukshetra.</h1>
+                    {/* <h1>We are 3rd year undergraduate students at NIT Kurukshetra.</h1> */}
 
                 </div>
                 <div className='how_to_use'>
@@ -20,7 +20,7 @@ export default function Home() {
                     <h3>2.Compete</h3>
                     <p>In this mode you can compete with other players around the world randomly. And Ranked based based upon your speed.</p>
                 </div>
-                <div className='about_us'>
+                {/* <div className='about_us'>
                     <div className="ankit name_div">
 
                         <img src={ankit} alt="" />
@@ -37,7 +37,7 @@ export default function Home() {
                         <img src={saatvik} alt="" />
                         <h3 ><a className='linkedin' href="https://www.linkedin.com/in/saatvik-garg/"> Saatvik </a></h3>
                     </div>
-                </div>
+                </div> */}
 
             </div>
         </>
